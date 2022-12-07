@@ -1,0 +1,2 @@
+module protocol.codec.core {
+}
